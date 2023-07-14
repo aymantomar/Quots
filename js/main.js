@@ -6,23 +6,23 @@ function getQuotes() {
     {
       quoteAuthor: "― Oscar Wilde",
       quoteText: "Be yourself; everyone else is already taken.",
-      quoteAuthorImg: "../image/1.jpg",
+      quoteAuthorImg: "./image/1.jpg",
     },
     {
       quoteAuthor: "― Marilyn Monroe",
       quoteText: "Be yourself; everyone else is already taken.",
-      quoteAuthorImg: "../image/2.jpg",
+      quoteAuthorImg: "./image/2.jpg",
     },
     {
       quoteAuthor: "― Albert Einstein",
       quoteText:
         "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
-      quoteAuthorImg: "../image/3.jpg",
+      quoteAuthorImg: "./image/3.jpg",
     },
     {
       quoteAuthor: "― Frank Zappa",
       quoteText: "So many books, so little time.",
-      quoteAuthorImg: "../image/4.jpg",
+      quoteAuthorImg: "./image/4.jpg",
     },
   ];
 
